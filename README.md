@@ -58,4 +58,15 @@ Here are some ideas to get you started:
 ---
 ### Learn
 [![Skills](https://skillicons.dev/icons?i=gcp,ai,opencv,php,perl,pr,redhat,ruby,rust,scala,swift,unity,azul,angular,androidstudio,cs,cpp&perline=10)](https://skillicons.dev)
+
+
+
+
+
+
+![JDM](https://img.shields.io/badge/JDM-000000?style=for-the-badge&logo=carthrottle&logoColor=white)
+![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+
+
          
