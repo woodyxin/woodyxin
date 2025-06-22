@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Skills](https://skillicons.dev/icons?i=java,python,c,r&perline=10)](https://skillicons.dev)
 
 ---
-### Frontlanguage &  Framework
+### Frontlanguage &  Framework(actually I know very few)
 [![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,express,flutter,webpack,jquery,nodejs,npm,react,vue&perline=10)](https://skillicons.dev)
 
 ---
