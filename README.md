@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Skills](https://skillicons.dev/icons?i=java,python,c,r&perline=10)](https://skillicons.dev)
 
 ---
-### Frontlanguage and Framework
+### Frontlanguage &  Framework
 [![Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap,express,flutter,webpack,jquery,nodejs,npm,react,vue&perline=10)](https://skillicons.dev)
 
 ---
@@ -41,19 +41,19 @@ Here are some ideas to get you started:
 
 ---
 ### Networks & Social
-[![Skills](https://skillicons.dev/icons?i=linkedin,instagram,github,twitter,gmail,stackoverflow,mastodon,discord,devto,wordpress,obsidian,notion&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linkedin,instagram,github,twitter,gmail,stackoverflow,discord,devto,wordpress,obsidian,notion,mastodon&perline=12)](https://skillicons.dev)
 
 ---
-### Databases and Message-Oriented Middleware
+### Databases & Message-Oriented Middleware
 [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,hibernate,rabbitmq,elasticsearch,kafka&perline=10)](https://skillicons.dev)
 
 ---
 ### DevOps & Cloud
-[![Skills](https://skillicons.dev/icons?i=linux,windows,docker,ubuntu,kubernetes,aws,gcp,nginx,jenkins&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,nginx,docker,ubuntu,kubernetes,jenkins,windows,aws,gcp&perline=10)](https://skillicons.dev)
 
 ---
-### tool&&software&&svc
-[![Skills](https://skillicons.dev/icons?i=anaconda,vim,maven,matlab,git,gitlab,gradle,md,postman,powershell,pycharm,idea,eclipse,vscode,visualstudio,svg,latex,lua&perline=10)](https://skillicons.dev)
+### ToolSoftware & SVC
+[![Skills](https://skillicons.dev/icons?i=anaconda,vim,maven,git,md,postman,powershell,pycharm,idea,eclipse,vscode,visualstudio,svg,latex,lua,matlab,gitlab,gradle&perline=10)](https://skillicons.dev)
 
 ---
 ### Learn
