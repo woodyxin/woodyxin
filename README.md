@@ -60,13 +60,27 @@ Here are some ideas to get you started:
 [![Skills](https://skillicons.dev/icons?i=gcp,ai,opencv,php,perl,pr,redhat,ruby,rust,scala,swift,unity,azul,angular,androidstudio,cs,cpp&perline=10)](https://skillicons.dev)
 
 
+---
+# Hobby
 
-
-
-
+![Basketball](https://img.shields.io/badge/Basketball-FE5000?style=for-the-badge&logo=nba&logoColor=white)
+![Swimming](https://img.shields.io/badge/Swimming-00BFFF?style=for-the-badge&logo=google-fit&logoColor=white)
+![Reading](https://img.shields.io/badge/Reading-F4A261?style=for-the-badge&logo=goodreads&logoColor=white)
+![Fitness](https://img.shields.io/badge/Fitness-FF4500?style=for-the-badge&logo=fitbit&logoColor=white)
 ![JDM](https://img.shields.io/badge/JDM-000000?style=for-the-badge&logo=carthrottle&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
+---
 
+![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA0B00?style=for-the-badge&logo=apache&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white)
+![ByteDance](https://img.shields.io/badge/ByteDance-000000?style=for-the-badge&logo=bytedance&logoColor=white)
 
          
