@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![JDM](https://img.shields.io/badge/JDM-000000?style=for-the-badge&logo=carthrottle&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
----
+
 
 ![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA0B00?style=for-the-badge&logo=apache&logoColor=white)
@@ -82,5 +82,8 @@ Here are some ideas to get you started:
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white)
 ![ByteDance](https://img.shields.io/badge/ByteDance-000000?style=for-the-badge&logo=bytedance&logoColor=white)
+
+
+
 
          
