@@ -59,6 +59,25 @@ Here are some ideas to get you started:
 ### Learn
 [![Skills](https://skillicons.dev/icons?i=gcp,ai,opencv,php,perl,pr,redhat,ruby,rust,scala,swift,unity,azul,angular,androidstudio,cs,cpp&perline=10)](https://skillicons.dev)
 
+---
+### Interest in future
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1A1F36?style=flat&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=neural&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-0A0A0A?style=flat&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096D6?style=flat&logo=scikitlearn&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-FFA500?style=flat&logo=mlflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Convolutional?style=flat&logo=fastapi&logoColor=white)
+![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Network?style=flat&logo=networkx&logoColor=white)
+
+
+
 
 ---
 # Hobby
