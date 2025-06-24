@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0096D6?style=flat&logo=scikitlearn&logoColor=white)
 ![AutoML](https://img.shields.io/badge/AutoML-FFA500?style=flat&logo=mlflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-Convolutional?style=flat&logo=fastapi&logoColor=white)
+![NCBI](https://img.shields.io/badge/NCBI-Bioinformatics-blue?style=flat&logo=readthedocs&logoColor=white)
+
 
 
 
@@ -100,6 +102,7 @@ Here are some ideas to get you started:
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white)
 ![ByteDance](https://img.shields.io/badge/ByteDance-000000?style=for-the-badge&logo=bytedance&logoColor=white)
+
 
 
 
